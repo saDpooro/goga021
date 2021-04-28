@@ -1,0 +1,27 @@
+.green{
+	color: green;
+	list-style: none;
+}
+li{
+	list-style: none;
+	color: blue;
+}
+h4{
+	border: 5px solid green ;
+}
+img{
+	width: 200px;
+	margin-right: 50px; 
+}
+p{
+	color: blue;
+}
+.detals{
+	border-bottom: 5px solid green;
+	color: blue;
+}
+.info{
+	text-align: center;
+	margin-top: 80px;
+	color: blue;
+}
